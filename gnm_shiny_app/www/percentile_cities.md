@@ -1,0 +1,2 @@
+This feature allows you to visualize references to city names based on low or high percentile frequency. For example, if you slide the bar to select only the range between 90 and 100, the map will display the 10 percent most frequently mentioned cities. Conversely, the range between 0 and 10 shows the 10 percent least mentioned cities. Please note that your selection doesn not affect the data displayed under the **Data** tab.
+

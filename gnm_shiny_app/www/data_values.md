@@ -1,0 +1,2 @@
+
+This selection allows you to display references to place names according to their frequency of occurrence. If you choose *absolute*, the map displays the frequency values based on the number of articles in which references to countries occur. If you choose _percentage_, the map displays the corresponding percentage of the frequency values in relation to the total number of documents in the corpus.

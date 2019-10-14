@@ -1,0 +1,1 @@
+This feature provides you with a link that you can share or save. The link shows the map replicating your selections and filters. 
