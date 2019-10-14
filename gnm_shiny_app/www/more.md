@@ -29,7 +29,7 @@ Viola, L. 2018. _ChroniclItaly. A Corpus of Italian American Newspapers from 189
     Utrecht: Utrecht University.   
     https://doi.org/10.24416/UU01-T4YMOW.
 
-Viola, Lorella, de Bruin, Jonathan, van Eijden, Kees and Verheul, Jaap. 2019. *The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers* (v. 1.0). Utrecht: Utrecht University. Available at https://github.com/lorellav/GeoNewsMiner.
+Viola, Lorella, de Bruin, Jonathan, van Eijden, Kees and Verheul, Jaap. 2019. The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers (v1.0.0). Utrecht: Utrecht University. Available at https://github.com/lorellav/GeoNewsMiner. DOI: 10.5281/zenodo.3484591
   
 Viola, L. and Verheul, J. 2019. "Mining ethnicity: Discourse-driven topic modelling (DDTM) of immigrant discourses in the United States,    1898-1920". *Digital Scholarship in the Humanities*. DOI: 10.1093/llc/fqz068.  
 
