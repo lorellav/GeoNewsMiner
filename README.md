@@ -143,8 +143,7 @@ Eijden](https://www.uu.nl/medewerkers/CJvanEijden) (k.v.eijden@uu.nl).
 
 To cite the GNM repository, please use the following format according to the APA style guide:
 
-Viola, Lorella, de Bruin, Jonathan, van Eijden, Kees and Verheul, Jaap. 2019. *The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers* (v. 1.0). Utrecht: Utrecht University. Available at https://github.com/lorellav/GeoNewsMiner. DOI*:
+Viola, Lorella, de Bruin, Jonathan, van Eijden, Kees and Verheul, Jaap. 2019. *The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers* (v1.0.0). Utrecht: Utrecht University. Available at https://github.com/lorellav/GeoNewsMiner. DOI: 10.5281/zenodo.3484591
 
-* Please include the DOI as displayed below the repository title.
 
 
