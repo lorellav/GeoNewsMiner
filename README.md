@@ -1,5 +1,7 @@
 # The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3484591.svg)](https://doi.org/10.5281/zenodo.3484591)
+
 The GeoNewsMiner (GNM) is an interactive tool that maps and visualises geographical references in historical newspapers. As a use case, we used Italian immigrant newspapers published in the United States from 1898 to 1920, as collected in the corpus [*ChroniclItaly*](https://public.yoda.uu.nl/i-lab/UU01/T4YMOW.html) (Viola 2018). The corpus was previously tagged for entities using a sequence tagging tool ([Riedl and Padó 2018](https://www.aclweb.org/anthology/P18-2020.pdf)). This tagged version of *ChroniclItaly* is [*ChroniclItaly 2.0*](https://public.yoda.uu.nl/i-lab/UU01/4MECRO.html) and it is available as an open access resource. The overarching goal of this project is to offer new perspectives on the geographies of the past. Methodologically, we extracted from the corpus the geographical references, quantified them, geocoded them, and plotted them on a map. As a visualization tool, we developed the GNM App using a [Shiny app](https://shiny.rstudio.com/). This allowed us to present and analyse the results in an intuitive, interactive, and reproduceable way. This documentation is the step-by-step description of the project.
 
 GNM is available as an open access app. Click [here](https://utrecht-university.shinyapps.io/GeoNewsMiner/) to use the GNM App.
