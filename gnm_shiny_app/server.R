@@ -569,7 +569,6 @@ server <- function(input, output, session) {
   
   observe({
     new_map        <- location_map_data()
-    new_map$data %<>% as_tibble()
     
     if(restore_map() == "CITY_MAP") {
       restore_map("RESTORE_END")
